@@ -1,4 +1,4 @@
-## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Amit 👨‍🎓
+## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sanjay 👨‍🎓
 
 <!--Header-->
 
@@ -14,9 +14,9 @@
  
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/amit17133129)
-[![Linkedin Badge](https://img.shields.io/badge/-Amit%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/amit-sharma-35439016a/)](https://www.linkedin.com/in/amit-sharma-35439016a//) [![Twitter Badge](http://img.shields.io/badge/-@AmitSharma-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/AmitSha57543491)](https://twitter.com/AmitSha57543491) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/amit17133129)
-![GitHub Stars](https://img.shields.io/github/stars/amit17133129?style=social)
-[![Instagram Badge](https://img.shields.io/badge/-AmitSharma-blue?style=social&logo=Instagram&link=https://www.instagram.com/the_interstellar_guy/?hl=en/)](https://www.instagram.com/the_interstellar_guy/?hl=en/) 
+[![Linkedin Badge][![Twitter Badge] [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/sanjay-devops-aws)
+![GitHub Stars]
+[![Instagram Badge](https://www.instagram.com/the_interstellar_guy/?hl=en/) 
 
 
 
@@ -28,14 +28,14 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://avatars1.githubusercontent.com/u/55508548?s=460&u=5b041974d3feb19088000e9444eb105d62412b2e&v=4"> 
+
 </p>
   
 
 
 ## About Me ✍
  
- I m <b> Amit Sharma</b>, a pursuing <b>Computer Science Engineer</b> a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Sanjay </b>, a pursuing <b>Computer Technology </b> a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
