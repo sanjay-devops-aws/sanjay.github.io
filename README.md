@@ -105,7 +105,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <a href="https://github.com/hackcoderr/github-readme-stats">
   github stats" />
 </a>
-<a href="https://github.com/amit17133129/github-readme-stats">
+
 
 </a>
 
